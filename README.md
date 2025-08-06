@@ -1,5 +1,3 @@
-# Enhancing-Access-to-Education-PSAs-through-Kiswahili-Luo-and-maasai-Translation-
-
 # Enhancing Access to Education PSAs through Kiswahili, Luo, and Maasai Translation
 
 **United States International University – Africa**  
