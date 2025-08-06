@@ -1,4 +1,4 @@
-# Enhancing Access to Education PSAs through Kiswahili, Luo, and Maasai Translation
+# Enhancing Access to Kenyan Education PSAs through Kiswahili, Luo, and Maasai Translation
 
 **United States International University – Africa**  
 **Contributors:** Shalyn Muita, Arnold Bophine, Jemimah Bochaberi, Chanteel Kimathi, Melvin Lebo  
@@ -94,14 +94,14 @@ This project aims to improve access to educational PSAs by translating them into
 
 ---
 
-## 📜 License
+##  License
 
 - **Code**: [MIT License](https://opensource.org/licenses/MIT)
 - **Dataset**: [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 We acknowledge the support of our professor Dr.Edward Ombui, linguists, civic educators, and the open-source community for contributing resources, guidance, and datasets to this project.
 
